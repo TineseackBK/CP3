@@ -86,6 +86,8 @@ inGame 玩家在游戏中（最基本的tag）
 
 inVessel 玩家在舰艇中（最基本的tag）
 
+数字 -5 ~ 5 序号
+
 mod_movement 玩家进入模块：移动
 
 mod_weapon 玩家进入模块：武器
@@ -97,6 +99,12 @@ select_movement 玩家选择模块：移动
 select_weapon 玩家选择模块：武器
 
 select_observatory 玩家选择模块：瞭望
+
+weapon 武器模块
+
+observatory 瞭望模块
+
+engine 引擎
 
 left 舰首向左
 
@@ -144,7 +152,17 @@ Potatoy 地图 Mk：珀星方
 
 Earth 地图 Mk：地球方
 
+medium_hp 半血
 
+low_up 低血
+
+no_up 死了
+
+exploding 舰艇护甲冲击波释放中
+
+zoom_in 触发缩放
+
+zoom_out 触发缩放
 
 **##实体名称，并且附上功能简要说明**
 
