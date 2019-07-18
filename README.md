@@ -6,13 +6,17 @@ Hail the Pillows
 
 minecraft
 
-_system
+_cp3_system
 
-movement
+cp3_movement
 
-observatory
+cp3_observatory
 
-weapon
+cp3_weapon
+
+cp3_control
+
+cp3_data
 
 
 **##记分板名称，并且附上功能简要说明**
@@ -44,6 +48,36 @@ RotationY 视角
 RotationXT 视角中介
 
 RotationYT 视角中介
+
+number 序号
+
+line 增援线
+
+stat_total 总人数统计
+
+stat_pot 珀星方人数统计
+
+stat_ear 地球方人数统计
+
+stat_spe 观察者人数统计
+
+start_timer 启动倒计时
+
+zoom 缩放等级
+
+shield_timer 舰艇护盾显示计时器
+
+cd_plasma
+
+cd_plasma_p
+
+cd_laser
+
+cd_laser_p
+
+cd_nuclear
+
+hp 耐久值
 
 
 **##tag 名称，并且附上功能简要说明**
