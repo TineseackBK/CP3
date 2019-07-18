@@ -1,0 +1,10 @@
+{
+	"values": [
+	"_cp3_system:core",
+	"cp3_movement:core",
+	"cp3_weapon:core",
+	"cp3_observatory:core",
+	"cp3_control:core",
+	"cp3_data:hp"
+	]
+}
