@@ -84,11 +84,19 @@ hp 耐久值
 
 inGame 玩家在游戏中（最基本的tag）
 
+inVessel 玩家在舰艇中（最基本的tag）
+
 mod_movement 玩家进入模块：移动
 
 mod_weapon 玩家进入模块：武器
 
 mod_observatory 玩家进入模块：瞭望
+
+select_movement 玩家选择模块：移动
+
+select_weapon 玩家选择模块：武器
+
+select_observatory 玩家选择模块：瞭望
 
 left 舰首向左
 
@@ -127,6 +135,16 @@ hit_vessel 激光击中舰艇本身
 control_keyboard 移动：键盘操作
 
 control_mouse 移动：鼠标操作
+
+started 启动用
+
+started_over 启动用
+
+Potatoy 地图 Mk：珀星方
+
+Earth 地图 Mk：地球方
+
+
 
 **##实体名称，并且附上功能简要说明**
 
